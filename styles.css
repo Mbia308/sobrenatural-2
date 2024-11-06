@@ -16,7 +16,7 @@ section {
     padding-bottom: 10px;
     padding-top: 8px;
     display: flex;
-    justify-content:  inherit;
+    justify-content: contents;
 }
 
 .chamada-texto {
