@@ -2,6 +2,7 @@ body {
     color: white;
     background: rgba(0, 0, 0, 0.877);
     margin: 20px;
+    font-family: "Snowburst One", system-ui;
 }
 
 header {
