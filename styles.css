@@ -14,8 +14,8 @@ header {
 
 .chamada {
     background: rgba(0, 0, 0, 0.877);
-    padding-bottom: 80px;
-    padding-top: 8px;
+    padding-bottom: 10px;
+    padding-top: 80px;
     display: center;
     justify-content: contents;
 }
