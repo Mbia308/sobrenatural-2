@@ -16,8 +16,8 @@ header {
     background: rgba(0, 0, 0, 0.877);
     padding-bottom: 10px;
     padding-top: 8px;
-    display: contents;
-    justify-content: center;
+    display: center;
+    justify-content: contents;
 }
 
 .chamada-texto {
