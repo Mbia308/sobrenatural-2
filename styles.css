@@ -17,7 +17,7 @@ header {
     padding-bottom: 10px;
     padding-top: 8px;
     display: contents;
-    justify-content: contents;
+    justify-content: center;
 }
 
 .chamada-texto {
